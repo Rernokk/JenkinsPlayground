@@ -11,6 +11,7 @@ namespace SimpleApp
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hi");
+			Console.WriteLine("I think we're good.");
 			Console.ReadKey();
 		}
 	}
